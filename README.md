@@ -4,7 +4,7 @@
     <h3 align="left">
         <ul>
             <li>🔭 I'm currently figuring out what to specialize in</li>
-            <li>👨‍🎓 I'm currently learning python</li>
+            <li>👨‍🎓 I'm learning python at the moment</li>
             <li>💬 Ask me about anything you want</li>
             <li>📫 How to reach me: fjcopati@gmail.com</li>
             <li>💼 I had a 4-month internship at the company GIRE S.A.</li>
