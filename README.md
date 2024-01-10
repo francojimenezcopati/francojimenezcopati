@@ -4,7 +4,7 @@
     <h3 align="left">
         <ul>
             <li>🔭 I'm currently figuring out what to specialize in</li>
-            <li>👨‍🎓 I'm learning C# at the moment</li>
+            <li>👨‍🎓 I'm learning Django at the moment</li>
             <li>💬 Ask me about anything you want</li>
             <li>📫 How to reach me: fjcopati@gmail.com</li>
             <li>💼 I had a 4-month internship at the company GIRE S.A.</li>
@@ -16,6 +16,7 @@
     <h2 align="center">Used Technologies</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
+        <img src="[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)" alt="C#" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
