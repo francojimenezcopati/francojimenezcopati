@@ -4,7 +4,7 @@
     <h3 align="left">
         <ul>
             <li>🔭 Currently figuring out what to specialize in</li>
-            <li>👨‍🎓 Learning Django at the moment</li>
+            <li>👨‍🎓 Learning Django & TypeScript at the moment</li>
             <li>📫 How to reach me: fjcopati@gmail.com</li>
             <li>💼 4-month internship at the company GIRE S.A.</li>
         </ul>
