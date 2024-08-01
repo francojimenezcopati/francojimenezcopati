@@ -4,7 +4,7 @@
     <h3 align="left">
         <ul>
             <li>🔭 Currently figuring out what to specialize in</li>
-            <li>👨‍🎓 Learning Django & TypeScript at the moment</li>
+            <li>👨‍🎓 Diving into Spring Boot at the moment</li>
             <li>📫 How to reach me: fjcopati@gmail.com</li>
             <li>💼 4-month internship at the company GIRE S.A.</li>
         </ul>
@@ -17,11 +17,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="80">
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
