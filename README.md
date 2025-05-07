@@ -25,7 +25,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="80">
     </div>
-    <h2 align="center">Used IDE's</h2>
+    <h2 align="center">Used IDEs</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
