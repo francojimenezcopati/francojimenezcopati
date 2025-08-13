@@ -6,7 +6,7 @@
             <li>🔭 Currently figuring out what to specialize in</li>
             <li>👨‍🎓 Diving into Spring Boot at the moment</li>
             <li>📫 How to reach me: fjcopati@gmail.com</li>
-            <li>💼 5-month internship at the company GIRE S.A.</li>
+            <li>💼 Internship at the company GIRE S.A.</li>
         </ul>
     </h3>
 </header>
