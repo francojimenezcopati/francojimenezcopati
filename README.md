@@ -1,14 +1,22 @@
-<img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
+
 <header align="left">
-    <h1 align="left">Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    <h3 align="left">
-        <ul>
-            <li>🔭 Currently figuring out what to specialize in</li>
-            <li>👨‍🎓 Diving into Spring Boot at the moment</li>
-            <li>📫 How to reach me: fjcopati@gmail.com</li>
-            <li>💼 Internship at the company GIRE S.A.</li>
-        </ul>
-    </h3>
+    <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi everyone, here Franco Jimenez Copati</h1>
+    <div>
+        <img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
+        <h3 align="left">
+            <ul>
+                <br>
+                <li>🔭 Currently working on a real time chat app</li>
+                <br>
+                <li>👨‍🎓 Diving into Spring Boot at the moment</li>
+                <br>
+                <li>📫 How to reach me: fjcopati@gmail.com</li>
+                <br>
+                <li>💼 Internship at the company GIRE S.A.</li>
+                <br>
+            </ul>
+        </h3>
+    </div>
 </header>
 <hr>
 <div align="center">
@@ -30,7 +38,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Visual Studio" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vi Improved" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="Neovim" width="80">
     </div>
 </div>
 <hr>
