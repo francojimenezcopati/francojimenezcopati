@@ -1,6 +1,6 @@
 
 <header align="left">
-    <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi everyone, Franco Jimenez Copati here</h1>
+    <h1 align="center"><tt align="center">&gt; Hi, Franco Jimenez Copati here</tt> <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
     <div>
         <img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
         <h3 align="left">
@@ -8,9 +8,9 @@
                 <br>
                 <li>🔭 Currently working on a real time chat app</li>
                 <br>
-                <li>👨‍🎓 Diving into Spring Boot at the moment</li>
+                <li>👨‍🎓 Diving into <i>Spring Boot</i> at the moment</li>
                 <br>
-                <li>📫 How to reach me: fjcopati@gmail.com</li>
+                <li>📫 How to reach me: <a href="">fjcopati@gmail.com</a></li>
                 <br>
                 <li>💼 Internship at the company GIRE S.A.</li>
                 <br>
