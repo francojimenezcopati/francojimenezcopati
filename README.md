@@ -10,7 +10,7 @@
                 <br>
                 <li>👨‍🎓 Diving into <i>Spring Boot</i> at the moment</li>
                 <br>
-                <li>📫 How to reach me: <a href="">fjcopati@gmail.com</a></li>
+                <li>📫 How to reach me: <a href="mailto:fjcopati@gmail.com">fjcopati@gmail.com</a></li>
                 <br>
                 <li>💼 Internship at the company GIRE S.A.</li>
                 <br>
