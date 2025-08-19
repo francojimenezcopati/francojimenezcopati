@@ -2,7 +2,7 @@
 <header align="left">
     <h1 align="center"><tt align="center">&gt; Hi, Franco Jimenez Copati here</tt> <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
     <div>
-        <img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
+        <img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="220">
         <h3 align="left">
             <ul>
                 <br>
