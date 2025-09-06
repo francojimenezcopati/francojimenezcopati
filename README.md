@@ -8,7 +8,7 @@
                 <br>
                 <li>🔭 Currently working on a real time chat app</li>
                 <br>
-                <li>👨‍🎓 Diving into <i>Spring Boot</i> at the moment</li>
+                <li>👨‍🎓 Diving into <i>Spring Boot & React</i> at the moment</li>
                 <br>
                 <li>📫 How to reach me: <a href="mailto:fjcopati@gmail.com">fjcopati@gmail.com</a></li>
                 <br>
