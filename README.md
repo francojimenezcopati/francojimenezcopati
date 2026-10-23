@@ -6,9 +6,11 @@
         <h3 align="left">
             <ul>
                 <br>
-                <li>👨‍🎓 Diving into <i>Spring Boot & React</i> at the moment</li>
+                <li>👨‍🎓 Fullstack developer</li>
+                <br>
                 <br>
                 <li>📫 How to reach me: <a href="mailto:fjcopati@gmail.com">fjcopati@gmail.com</a></li>
+                <br>
                 <br>
                 <li>💼 Working at Adavance IT</li>
                 <br>
