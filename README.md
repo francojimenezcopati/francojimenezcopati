@@ -6,13 +6,11 @@
         <h3 align="left">
             <ul>
                 <br>
-                <li>🔭 Currently working on a real time chat app</li>
-                <br>
                 <li>👨‍🎓 Diving into <i>Spring Boot & React</i> at the moment</li>
                 <br>
                 <li>📫 How to reach me: <a href="mailto:fjcopati@gmail.com">fjcopati@gmail.com</a></li>
                 <br>
-                <li>💼 Internship at the company GIRE S.A.</li>
+                <li>💼 Working at Adavance IT</li>
                 <br>
             </ul>
         </h3>
